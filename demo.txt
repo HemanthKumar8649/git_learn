@@ -1,1 +1,1 @@
-Line from conflict branch
+This is the test file
